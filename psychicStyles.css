@@ -1,0 +1,12 @@
+/* CSS Document */
+
+#seer {
+	width: 292px;
+	display: table-cell;
+}
+
+#slideshow {
+	padding: 200px;
+	display: table-cell;
+	vertical-align: top;
+}
