@@ -1,6 +1,8 @@
 # JavaScript Cat Slideshow
 This project was an assignment for Scripting for the Web @ SMCC Fall 2017
 
+I only created the JavaScript file - everything else was written by Prof. Valerie Green, and not meant to be edited
+
 ### Project Instructions
 
 Phase 1:
